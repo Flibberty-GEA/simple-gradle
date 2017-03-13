@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../SysGears/grain" value="2978114572232" />
+        <entry key="$PROJECT_DIR$/../SysGears/sysgears.com" value="2976943104854" />
+        <entry key="$PROJECT_DIR$/../SysGears/работа над Jython/grain" value="2948764642000" />
+        <entry key="$PROJECT_DIR$/../SysGears/работа над Jython/grain-theme-agency-0.4.3" value="1474540852000" />
+        <entry key="$PROJECT_DIR$/../SysGears/работа над Jython/grain-theme-business-0.4.3" value="1474534377000" />
+        <entry key="$PROJECT_DIR$/../SysGears/работа над Jython/grain-theme-freelancer-0.4.4" value="1474539853000" />
+        <entry key="$PROJECT_DIR$/../SysGears/работа над Jython/grain-theme-octopress-0.4.5" value="1440679015000" />
+        <entry key="$PROJECT_DIR$/../SysGears/работа над Jython/grain-theme-octopress-0.4.6" value="1474470939000" />
+        <entry key="$PROJECT_DIR$/../SysGears/работа над Jython/grain-theme-portfolio-0.4.4" value="1474473432000" />
+        <entry key="$PROJECT_DIR$/../SysGears/работа над Jython/grain-theme-template-0.4.7" value="1474537641000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
